@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for an incorrect sum calculation function written in Solidity. The bug arises when non-numeric inputs are provided to the function.  The solution demonstrates how to handle potential errors and ensure the function only accepts numeric arguments.
