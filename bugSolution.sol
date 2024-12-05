@@ -1,0 +1,1 @@
+function getSum(uint256 a, uint256 b) { return a + b; }
